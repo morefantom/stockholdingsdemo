@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PrathameshStockHoldingsDemo</string>
+
+    //LANDING BOTTOM NAV BAR
+    <string name="main_bottom_nav_watchlist">Watchlist</string>
+    <string name="main_bottom_nav_orders">Orders</string>
+    <string name="main_bottom_nav_portfolio">Portfolio</string>
+    <string name="main_bottom_nav_funds">Funds</string>
+    <string name="main_bottom_nav_invest">Invest</string>
+
+    //PORTFOLIO
+    <string name="portfolio_common_current_value_label">Current value*</string>
+    <string name="portfolio_common_total_investment_label">Total investment*</string>
+    <string name="portfolio_common_today_profit_and_loss_value_label">Today\'s Profit &amp; Loss*</string>
+    <string name="portfolio_common_profit_and_loss_label">Profit &amp; Loss*</string>
+
+    //HOLDINGS
+    <string name="portfolio_holdings_tab_pager_title">Holdings</string>
+    <string name="portfolio_holdings_quantity_label">NET QTY:</string>
+    <string name="portfolio_holdings_ltp_label">LTP:</string>
+    <string name="portfolio_holdings_pnl_label">P&amp;L:</string>
+
+    //PORTFOLIO
+    <string name="portfolio_positions_tab_pager_title">Positions</string>
+
+</resources>
